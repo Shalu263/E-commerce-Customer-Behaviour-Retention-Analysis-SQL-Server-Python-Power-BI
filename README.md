@@ -24,6 +24,24 @@
 #### 3 )Geographic Revenue Split: The United Kingdom drives the bulk of revenue at $14.39M across 5,353 customers, while international markets like EIRE ($123.31K), Singapore ($25.32K), and Netherlands ($25.18K) lead in average customer value.
 <img src="https://github.com/Shalu263/E-commerce-Customer-Behaviour-Retention-Analysis-SQL-Server-Python-Power-BI/blob/2decf660d119dc119fba5507cbb14a0569794a59/Screenshot%202026-11-25%20184545.png?raw=true" alt="IKEA Gifting Dashboard Visual" width="650" />
 
+### Recommendations:
+
+#### Based on the RFM segmentation, revenue concentration, and churn trends identified in the analysis, IKEA Gifting can prioritize the following actions:
+
+#### - Launch Targeted Win-Back Campaigns for High-Value Lapsed Buyers: Focus immediate reactivation outreach on the 821 At Risk customers ($1.59M in historical spend) and the 665 inactive high-monetary buyers (Recency > 90, Monetary score ≥ 4, representing $2.38M at risk) using personalized seasonal reminders and time-bound gift vouchers ahead of Q4 peak demand.
+#### - Protect and Retain Champions with VIP Loyalty Perks: Since Champions (1,291 customers, 22.0% of the base) generate 68.13% of total revenue ($11.84M), introduce early holiday catalog access, bundled gifting discounts, and dedicated account perks to prevent top-tier attrition.
+#### - Convert Early-Stage and Slipping Tiers Before the 90-Day Cutoff: Set up automated 30- and 60-day post-purchase email flows targeting New (442 buyers), Needs Attention (387 buyers), and the 446 inactive Loyal customers to drive second orders before they cross the 90-day churn threshold.
+#### - Capitalize on Q4 Gifting Seasonality and High-AOV International Markets: Front-load inventory and marketing spend in September–November (when monthly revenue surges from $1.78M to $2.32M and churn drops to 23.4%) while expanding B2B/bulk gifting outreach in high-average-value markets like EIRE ($123.31K avg), Singapore ($25.32K avg), and Netherlands ($25.18K avg).
+
+
+
+
+
+
+
+
+
+
 
 
 
