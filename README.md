@@ -9,6 +9,7 @@
 #### Across two years of UK online retail transactions (December 2009 – December 2011), IKEA Gifting generated strong top-line revenue heavily driven by a small core of repeat buyers, while overall customer retention showed significant drop-off. Across **5,881 active customers** and **1,033,036 cleaned transaction records**, **Champions** represent **22.0%** of the buyer base (1,291 customers) yet generate **68.1%** of total revenue (**11.84M**). However, **50.9%** of customers have become inactive (90+ days since last purchase), including **665 high-value buyers** representing **2.38M** in revenue at risk. The following sections break down the key segment trends, churn drivers, and actionable retention opportunities.
 
 <img src="https://github.com/Shalu263/E-commerce-Customer-Behaviour-Retention-Analysis-SQL-Server-Python-Power-BI/blob/d5b4b9a17156a62e2a978ba25288bf8176210ebd/Screenshot%202026-11-25%20180957.png?raw=true" alt="IKEA Gifting Power BI Dashboard Overview" width="750" /> 
+
 ### Sales & Revenue Trends:
 
 #### 1) Strong Q4 Gifting Seasonality: Monthly revenue rises steadily from an early-year low of $0.95M in February to a peak of $2.32M in November and $1.77M in December, lifting Q4 revenue to $6.2M—nearly double Q1 ($3.4M) and Q2 ($3.6M).
