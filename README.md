@@ -12,16 +12,17 @@
 ### Sales & Revenue Trends:
 
 #### 1) Strong Q4 Gifting Seasonality: Monthly revenue rises steadily from an early-year low of $0.95M in February to a peak of $2.32M in November and $1.77M in December, lifting Q4 revenue to $6.2M—nearly double Q1 ($3.4M) and Q2 ($3.6M).
-<img src="https://github.com/Shalu263/E-commerce-Customer-Behaviour-Retention-Analysis-SQL-Server-Python-Power-BI/blob/56d83e6a998233a64d6b70560f785da5351c16a2/Screenshot%202026-11-25%20183548.png?raw=true" alt="IKEA Gifting Dashboard Visual" width="650" />
+<img src="https://github.com/Shalu263/E-commerce-Customer-Behaviour-Retention-Analysis-SQL-Server-Python-Power-BI/blob/56d83e6a998233a64d6b70560f785da5351c16a2/Screenshot%202026-11-25%20183548.png?raw=true" alt="IKEA Gifting Dashboard Visual" width="450" />
 
 
 
 
 #### 2) Year-over-Year Scale & Stabilization: Annual revenue surged from $0.7M in 2009 (partial year starting December) to $8.4M in 2010, and held steady at $8.3M in 2011 across 5,881 active customers ($17.4M total revenue, $2.95K average customer value).
-<img src="https://github.com/Shalu263/E-commerce-Customer-Behaviour-Retention-Analysis-SQL-Server-Python-Power-BI/blob/590a853ac50a990c9104afbcdf1172b96428a2e1/Screenshot%202026-11-25%20184051.png?raw=true" alt="IKEA Gifting Dashboard Visual" width="650" />
+<img src="https://github.com/Shalu263/E-commerce-Customer-Behaviour-Retention-Analysis-SQL-Server-Python-Power-BI/blob/590a853ac50a990c9104afbcdf1172b96428a2e1/Screenshot%202026-11-25%20184051.png?raw=true" alt="IKEA Gifting Dashboard Visual" width="450" />
 
 
-#### 3)Geographic Revenue Split: The United Kingdom drives the bulk of revenue at $14.39M across 5,353 customers, while international markets like EIRE ($123.31K), Singapore ($25.32K), and Netherlands ($25.18K) lead in average customer value.
+#### 3 )Geographic Revenue Split: The United Kingdom drives the bulk of revenue at $14.39M across 5,353 customers, while international markets like EIRE ($123.31K), Singapore ($25.32K), and Netherlands ($25.18K) lead in average customer value.
+<img src="https://github.com/Shalu263/E-commerce-Customer-Behaviour-Retention-Analysis-SQL-Server-Python-Power-BI/blob/2decf660d119dc119fba5507cbb14a0569794a59/Screenshot%202026-11-25%20184545.png?raw=true" alt="IKEA Gifting Dashboard Visual" width="550" />
 
 
 
